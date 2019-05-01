@@ -1,0 +1,16 @@
+{
+  "name": "04-Webpack-From-Scratch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "babel-loader": "^8.0.5",
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.12.4",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1",
+    "webpack-dev-server": "^3.3.1"
+  }
+}
